@@ -1,10 +1,7 @@
 const config = {
     videos: [
-        "https://fast.wistia.net/embed/iframe/gqpzyivli7?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/mbibneqh9f?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/rmv4no9y9d?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/9i2ybzrl5w?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/6dygkgtgfh?seo=false&videoFoam=true"
+        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true",
+        "https://fast.wistia.net/embed/iframe/eaq1qblnw1?seo=false&videoFoam=true"
     ],
     next_button: "Next Lesson",
     previous_button: "Previous Lesson",
