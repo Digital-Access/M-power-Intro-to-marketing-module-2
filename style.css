@@ -38,11 +38,21 @@ html {
 
 .btn {
     padding: 0.5rem 1rem 0.5rem 1rem;
-    background: transparent;
+    background: white;
     border: solid white 1px;
     cursor: pointer;
+    color: #0f1360;
+    z-index: 100;
 }
 
 .btn:hover {
     background-color: rgb(255, 255, 255, 0.5);
+}
+
+
+.progress{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    justify-content: center;
 }
