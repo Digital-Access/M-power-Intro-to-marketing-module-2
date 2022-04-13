@@ -3,8 +3,8 @@ const config = {
         "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true",
         "https://fast.wistia.net/embed/iframe/eaq1qblnw1?seo=false&videoFoam=true"
     ],
-    next_button: "Next Lesson",
-    previous_button: "Previous Lesson",
+    next_button: "Next Video",
+    previous_button: "Previous Video",
     progress_text: "Video "
 }
 
